@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/PajaritoMoyqi/NPM-ForFun/issues"
   },
-  "homepage": "https://github.com/PajaritoMoyqi/NPM-ForFun#readme"
+  "homepage": "https://github.com/PajaritoMoyqi/NPM-ForFun#readme",
+  "type": "module"
 }
