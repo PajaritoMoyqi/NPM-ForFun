@@ -5,6 +5,11 @@ export const getRandomNum = (initialNum) => {
 export const getRandomIdx = (arr) => {
   return Math.floor(Math.random()*(arr.length));
 }
+export const getRandomItem = (arr) => {
+  const randomIdx = Math.floor(Math.random()*(arr.length));
+  return arr[randomIdx];
+}
+
 
 export const getArrFromNumToNum = (start, end) => {
   let initialArr = [];
