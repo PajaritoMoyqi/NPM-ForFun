@@ -1,3 +1,4 @@
+// get Random
 
 export const getRandomNum = (initialNum) => {
   return Math.floor(Math.random()*(initialNum));
@@ -10,6 +11,8 @@ export const getRandomItem = (arr) => {
   return arr[randomIdx];
 }
 
+
+// getArray
 
 export const getArrFromNumToNum = (start, end) => {
   let initialArr = [];
