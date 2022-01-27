@@ -3,6 +3,15 @@
 export const getRandomNum = (initialNum) => {
   return Math.floor(Math.random()*(initialNum));
 }
+export const getRandomNumNotSame = (initialNum, currentNum) => {
+  let candidate = currentNum;
+
+  while(candidate === currentNum){
+    candidate = Math.floor(Math.random()*(initialNum));
+  }
+
+  return candidate;
+}
 export const getRandomIdx = (arr) => {
   return Math.floor(Math.random()*(arr.length));
 }
