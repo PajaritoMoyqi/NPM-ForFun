@@ -1,14 +1,14 @@
 {
-  "name": "npm-forfun",
-  "version": "0.0.1",
-  "description": "",
+  "name": "pajarito-fn",
+  "version": "1.0.0",
+  "description": "module of functions which are made and used frequently by pajaritomoyqi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PajaritoMoyqi/NPM-ForFun.git"
+    "url": "git+https://github.com/PajaritoMoyqi/NPM-pajarito-fn.git"
   },
   "keywords": [
     "npm"
@@ -16,8 +16,8 @@
   "author": "Pajarito Moyqi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PajaritoMoyqi/NPM-ForFun/issues"
+    "url": "https://github.com/PajaritoMoyqi/NPM-pajarito-fn/issues"
   },
-  "homepage": "https://github.com/PajaritoMoyqi/NPM-ForFun#readme",
+  "homepage": "https://github.com/PajaritoMoyqi/NPM-pajarito-fn#readme",
   "type": "module"
 }
