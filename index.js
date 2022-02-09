@@ -2,7 +2,7 @@
 
 export const getRandomNum = (initialNum) => {
   return Math.floor(Math.random()*(initialNum));
-}
+} // get : 0 ~ less then initialNum
 export const getRandomNumNotSame = (initialNum, currentNum) => {
   let candidate = currentNum;
 
@@ -11,7 +11,7 @@ export const getRandomNumNotSame = (initialNum, currentNum) => {
   }
 
   return candidate;
-}
+} // get 0 ~ less then initialNum except currentNum
 export const getRandomIdx = (arr) => {
   return Math.floor(Math.random()*(arr.length));
 }
@@ -31,7 +31,7 @@ export const getArrFromNumToNum = (start, end) => {
   }
 
   return initialArr;
-}
+} // get : [start, start + 1, start + 2, ... , end -2, end -1, end]
 
 
 // string
