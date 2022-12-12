@@ -1,6 +1,6 @@
 {
   "name": "pajarito-fn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "module of functions which are made and used frequently by pajaritomoyqi",
   "main": "index.js",
   "scripts": {

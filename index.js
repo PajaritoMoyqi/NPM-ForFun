@@ -32,7 +32,18 @@ export const getArrFromNumToNum = (start, end) => {
 
   return initialArr;
 } // get : [start, start + 1, start + 2, ... , end -2, end -1, end]
+export const shuffleArray = (array) => {
+  return array.sort(() => Math.random() - 0.5);
+}
+export const getShuffledArrFromNumToNum = (start, end) => {
+  let initialArr = [];
 
+  for(let i=0; i<=end-start; i++){
+    initialArr = [...initialArr, i+start];
+  }
+
+  return shuffleArray(initialArr);
+} // get : [start, start + 1, start + 2, ... , end -2, end -1, end]
 
 // string
 
