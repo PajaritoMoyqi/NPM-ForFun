@@ -16,7 +16,7 @@ In Node.js:
 
 ```Javascript
 // load full module.
-const pajaritoFn = require('pajarito-fn');
+const pFn = require('pajarito-fn');
 ```
 
 See [the package source](https://github.com/PajaritoMoyqi/NPM-pajarito-fn) for more details.
