@@ -1,4 +1,4 @@
-pajarito-fn v1.0.0
+pajarito-fn v1.0.2
 ==================
 
 The pajarito-fn library exported as [Node.js](https://nodejs.org/) modules.
