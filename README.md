@@ -2,7 +2,7 @@
 ![NPM Downloads](https://img.shields.io/npm/dy/pajarito-fn)
 ![NPM Last Update](https://img.shields.io/npm/last-update/pajarito-fn)
 
-# pajarito-fn v1.0.2
+# pajarito-fn v1.0.3
 
 The pajarito-fn library exported as [Node.js](https://nodejs.org/) modules.
 

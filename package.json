@@ -1,6 +1,6 @@
 {
   "name": "pajarito-fn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "module of functions which are made and used frequently by pajaritomoyqi",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "npm"
   ],
   "author": "Pajarito Moyqi",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PajaritoMoyqi/NPM-pajarito-fn/issues"
   },
